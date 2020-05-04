@@ -33,20 +33,17 @@ ii.	필요한 파이썬 라이브러리 설치
 #         
 #                  
 # 3. 시스템 구성도 / 시나리오  
->>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img><img src="https://user-images.githubusercontent.com/48399897/80967639-a7fb9780-8e51-11ea-8b28-8f1b4b977ff2.jpg" width="60%" height="40%" title="시나리오" alt="실행1">     </img>  
+>>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img>
+          #<img src="https://user-images.githubusercontent.com/48399897/80967639-a7fb9780-8e51-11ea-8b28-8f1b4b977ff2.jpg" width="60%" height="40%" title="시나리오" alt="실행1">     </img>  
 </div>    
 #         
 #
+
 # 4. 프로그램 작동법   
+
 ***1. Choice_channel_nation.py 실행***     
 ***2. 원하는 채널, 국가 선택***         
 ***3. 'finish' 문구가 뜨면 지정한 폴더에 가서 excel파일 확인***    
-#         
-#                  
-      
-
->>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/73320598-2bba4c80-4283-11ea-96e2-525d8f7d8cd3.PNG" width="30%" height="40%" title="Choice_channel_nation.py" alt="실행1"> </img><img src="https://user-images.githubusercontent.com/48399897/73322763-aa65b880-4288-11ea-989d-02b9ed222d41.PNG" width="60%" height="40%" title="저장되는 위치 출력" alt="실행1">     </img>  
-</div>    
 
 
 
