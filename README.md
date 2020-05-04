@@ -15,11 +15,11 @@
 
 # 2. Prerequisites
 ```
-#
+
 i.	안정적인 실행 환경을 위해 아나콘다에서 독립적인 가상환경 사용을 권장.
 1.	conda create -n NAME python=3.7
 2.	activate NAME
-#
+
 ii.	필요한 파이썬 라이브러리 설치
 1.	conda install numpy
 2.	conda install tensorflow
