@@ -33,8 +33,12 @@ ii.	필요한 파이썬 라이브러리 설치
 #         
 #                  
 # 3. 시스템 구성도 / 시나리오  
->>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img>
-          #<img src="https://user-images.githubusercontent.com/48399897/80967639-a7fb9780-8e51-11ea-8b28-8f1b4b977ff2.jpg" width="60%" height="40%" title="시나리오" alt="실행1">     </img>  
+>>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img></div>
+#
+#
+#
+<div>
+<img src="https://user-images.githubusercontent.com/48399897/80967639-a7fb9780-8e51-11ea-8b28-8f1b4b977ff2.jpg" width="60%" height="40%" title="시나리오" alt="실행1">     </img>  
 </div>    
 #         
 #
