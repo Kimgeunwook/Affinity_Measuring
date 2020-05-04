@@ -49,6 +49,7 @@ ii.	필요한 파이썬 라이브러리 설치
 </div>    
 </br>
 </br>
+
 ***2-1. Web cam 입력으로 사용하는경우***  
 
 python webface.py 실행 
@@ -62,6 +63,7 @@ python webface.py -c haarcascade_frontalface_default.xml -m epoch_75.hdf5
 </div>    
 </br>
 </br>
+
 ***2-2. video를 입력으로 사용하는 경우*** 
 
  python webface.py 실행 
