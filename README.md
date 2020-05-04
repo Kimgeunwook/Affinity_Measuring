@@ -43,9 +43,12 @@ ii.	필요한 파이썬 라이브러리 설치
 
 # 4. 프로그램 작동법   
 
-***1. Choice_channel_nation.py 실행***     
-***2. 원하는 채널, 국가 선택***         
-***3. 'finish' 문구가 뜨면 지정한 폴더에 가서 excel파일 확인***    
+***1. 다운받은 OpenSource폴더가 있는 path로 이동***    
+<div>
+<img src="https://user-images.githubusercontent.com/48399897/80968716-679d1900-8e53-11ea-8c14-a6a6363f0988.png" width="50%" height="40%" title="cd OpenSource" alt="실행1">     </img>  
+</div>    
+***2-1. Web cam 입력으로 사용하는경우***         
+***2-2. video를 입력으로 사용하는 경우***    
 
 
 
