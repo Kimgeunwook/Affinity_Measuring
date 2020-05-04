@@ -47,6 +47,7 @@ ii.	필요한 파이썬 라이브러리 설치
 <div>
 <img src="https://user-images.githubusercontent.com/48399897/80968716-679d1900-8e53-11ea-8c14-a6a6363f0988.png" width="60%" height="40%" title="cd OpenSource" alt="실행1">     </img>  
 </div>    
+
 ***2-1. Web cam 입력으로 사용하는경우***  
 
 python webface.py 실행 
