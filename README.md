@@ -47,7 +47,8 @@ ii.	필요한 파이썬 라이브러리 설치
 <div>
 <img src="https://user-images.githubusercontent.com/48399897/80968716-679d1900-8e53-11ea-8c14-a6a6363f0988.png" width="60%" height="40%" title="cd OpenSource" alt="실행1">     </img>  
 </div>    
-
+</br>
+</br>
 ***2-1. Web cam 입력으로 사용하는경우***  
 
 python webface.py 실행 
@@ -59,7 +60,8 @@ python webface.py -c haarcascade_frontalface_default.xml -m epoch_75.hdf5
 <div>
 <img src="https://user-images.githubusercontent.com/48399897/80968714-67048280-8e53-11ea-9762-2464c62b6748.jpg" width="60%" height="40%" title="web cam 사용시" alt="실행1">     </img>  
 </div>    
-
+</br>
+</br>
 ***2-2. video를 입력으로 사용하는 경우*** 
 
  python webface.py 실행 
@@ -69,7 +71,8 @@ python webface.py -c haarcascade_frontalface_default.xml -m epoch_75.hdf5 -v vid
 <div>
 <img src="https://user-images.githubusercontent.com/48399897/80968722-68ce4600-8e53-11ea-9c1b-99b0f80ebfdb.jpg" width="60%" height="40%" title="video 사용시" alt="실행1">     </img>  
 </div>    
-
+</br>
+</br>
 
 
 #           
