@@ -4,14 +4,14 @@
 ### 3. 시스템 구성도 / 시나리오  
 ### 4. 프로그램 작동법  
 ### 5. 실행 결과   
-#   
-#   
+<br/>
+<br/>
 # 1. 프로젝트 소개    
 두명의 얼굴이 잡힌 사진에서 각 얼굴을 인식하여, 감정분석 프로그램에서 두명의 감정수치를 추출한다.
 두 명의 감정 수치와 그 사진에서의 관계를 바탕으로 직접 제작한 호감도 도출 함수에서 나온 호감도 수치를 DNN을 사용하여 학습시킨다. 
 학습이 완료된 뒤에는 두명의 얼굴이 있는 영상 혹은 사진을 입력으로 받고, 각각의 감정 수치와 그에 따른 호감도를 도출해내는 프로그램이다.
-#         
-#                  
+<br/>
+<br/>
           
 
 # 2. Prerequisites
@@ -30,16 +30,16 @@ ii.	필요한 파이썬 라이브러리 설치
 6.	conda install matplotlib
 
 ```            
-#         
-#                  
+<br/>
+<br/>
 # 3. 시스템 구성도 / 시나리오  
->>>>><div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img></div>
+<div> <center><img src="https://user-images.githubusercontent.com/48399897/80967601-99ad7b80-8e51-11ea-8b3c-1417f8fca4bd.jpg" width="50%" height="40%" title="시스템 " alt="실행1"> </img></div>
 <br/>
 <div>
 <img src="https://user-images.githubusercontent.com/48399897/80967639-a7fb9780-8e51-11ea-8b28-8f1b4b977ff2.jpg" width="60%" height="40%" title="시나리오" alt="실행1">     </img>  
 </div>    
-#         
-#
+<br/>
+<br/>
 
 # 4. 프로그램 작동법   
 
