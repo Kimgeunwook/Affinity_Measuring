@@ -79,11 +79,11 @@ python webface.py -c haarcascade_frontalface_default.xml -m epoch_75.hdf5 -v vid
 </br>
 
 
-#           
-#                     
+<br/>
+<br/>
       
 # 5. 실행 결과    
-## 
->>>>>![실행결과](https://user-images.githubusercontent.com/48399897/80966965-8b129480-8e50-11ea-9921-137b217bf458.gif)
+
+![실행결과](https://user-images.githubusercontent.com/48399897/80966965-8b129480-8e50-11ea-9921-137b217bf458.gif)
 
 
